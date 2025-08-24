@@ -31,4 +31,3 @@ It retrieves relevant chunks from your documents using **FAISS vector search** a
 ### 1. Clone Repository  
 ```bash
 git clone https://github.com/your-username/doc-qna-chatbot.git
-cd doc-qna-chatbot
